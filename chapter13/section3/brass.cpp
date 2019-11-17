@@ -58,7 +58,6 @@ void Brass::viewAcct() const {
   restore(initialState, prec);
 }
 
-
 BrassPlus::BrassPlus(
   const std::string & s,
   long an,
